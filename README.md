@@ -28,7 +28,7 @@
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Tharunraj-U/Tharunraj-U//blob/output/github-snake-dark.svg)
 </div>
 
 
