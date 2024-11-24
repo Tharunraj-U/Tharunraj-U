@@ -46,16 +46,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tharunraj-U&theme=tokyonight&hide_border=false)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcode.panchajanya.dev/Tharunraj-U?theme=dark&font=Courier%20New)
+
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunraj-U&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ## 🌟 Fun Facts
 - 💡 Best debugging tool: A good night's sleep
