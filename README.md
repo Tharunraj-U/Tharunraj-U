@@ -10,8 +10,9 @@
 - 🤔 Seeking guidance for **FAANG placements**  
 - 💬 Let's chat about **Tech and Innovations**  
 - 📫 **Reach me via:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-raj-726360252/)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-raj-726360252/) 
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7010791192)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunraj2023@gmail.com)
 ---
 
 ### 🛠️ Languages and Tools:
