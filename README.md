@@ -64,4 +64,5 @@
 ![LeetCode Stats](https://leetcode.panchajanya.dev/Tharunraj-U?theme=wtf&font=Suez%20One&ext=heatmap)
 ### 📊 GitHub Activity:
 ![Tharunraj-U's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharunraj-U&theme=dark&hide_border=false)
+![Tharunraj-U's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=dark&show_icons=true&hide_border=false&layout=compact)
 [![Tharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharunraj-U&bg_color=fff5f5&color=1a191a&line=4c9e5a&point=43fa00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
