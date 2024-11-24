@@ -15,4 +15,4 @@ FullStack Developer
 
 (![LeetCode Stats](https://leetcode.panchajanya.dev/Tharunraj-U?theme=wtf&font=Suez%20One&ext=heatmap))
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharunraj-U&bg_color=fff5f5&color=1a191a&line=4c9e5a&point=43fa00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
