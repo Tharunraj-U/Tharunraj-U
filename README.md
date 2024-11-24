@@ -2,7 +2,7 @@
 
 ### 🚀 FullStack Developer | Tech Enthusiast  
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/ef/5a/0f/ef5a0ff776bfb5a4f658b77a3e58ef5a.gif">
+<img align="right" width="370" height="290" src="https://media1.tenor.com/m/MjJeqNqIoVsAAAAd/batman-gotham-city.gif">
 
 - 🔭 Check out my [**Portfolio**](https://portfolio-sm3c.onrender.com/)  
 - 🌱 Currently exploring **DSA** and **Spring AI**  
