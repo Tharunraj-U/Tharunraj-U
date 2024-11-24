@@ -2,7 +2,7 @@
 
 ### 🚀 FullStack Developer | Tech Enthusiast  
 
-<img align="right" width="370" height="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" width="500" height="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 Check out my [**Portfolio**](https://portfolio-sm3c.onrender.com/)  
 - 🌱 Currently exploring **DSA** and **Spring AI**  
