@@ -2,8 +2,7 @@
 
 ### 🚀 FullStack Developer | Tech Enthusiast  
 
-<img align="right" width="370" height="290" src="![image](https://github.com/user-attachments/assets/0bbae50d-913f-4960-8f32-bc805f5fb6ed)
-">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/ef/5a/0f/ef5a0ff776bfb5a4f658b77a3e58ef5a.gif">
 
 - 🔭 Check out my [**Portfolio**](https://portfolio-sm3c.onrender.com/)  
 - 🌱 Currently exploring **DSA** and **Spring AI**  
