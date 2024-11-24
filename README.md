@@ -1,68 +1,71 @@
-# 👋 Hi there! I'm **Tharun Raj**  
+# 👋 Hello World! I'm Tharun Raj  
 
-### 🚀 FullStack Developer | Tech Enthusiast  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Innovation+Enthusiast;Problem+Solver;Open+Source+Contributor;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</div>
 
-<img align="right" width="500" height="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 Check out my [**Portfolio**](https://portfolio-sm3c.onrender.com/)  
-- 🌱 Currently exploring **DSA** and **Spring AI**  
-- 👯 Excited to collaborate on **development projects**  
-- 🤔 Seeking guidance for **FAANG placements**  
-- 💬 Let's chat about **Tech and Innovations**  
-- 📫 **Reach me via:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-raj-726360252/) 
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7010791192)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunraj2023@gmail.com)
+## 💫 About Me
+- 🚀 Passionate about crafting elegant solutions to complex problems
+- 🔭 Building my digital presence at [**Portfolio**](https://portfolio-sm3c.onrender.com/)
+- 🌱 Currently mastering **Data Structures & Algorithms** and exploring **Spring AI**
+- 💡 Always excited to learn new technologies and frameworks
+- 👯 Looking to collaborate on innovative **Full Stack Projects**
+- 🎯 Goal: Contributing to projects that make a difference
+- 🤝 Open to mentorship and guidance for **FAANG placements**
+- 💬 Let's discuss **Tech, Innovation, and the Future of Development**
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-raj-726360252/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7010791192)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunraj2023@gmail.com)
+
+## 💻 Tech Stack
+<div align="left">
+  
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tharunraj-U&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcode.panchajanya.dev/Tharunraj-U?theme=dark&font=Courier%20New)
+
+## 🌟 Fun Facts
+- 💡 Best debugging tool: A good night's sleep
+- ☕ Powered by coffee and curiosity
+- 🎮 When not coding, probably thinking about coding
+- 📚 Firm believer in continuous learning
+
+## 📌 Personal Mantra
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
 ---
-
-### 🛠️ Languages and Tools:
-
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-### 📊 LeetCode Activity:
-![LeetCode Stats](https://leetcode.panchajanya.dev/Tharunraj-U?theme=wtf&font=Suez%20One&ext=heatmap)
-### 📊 GitHub Activity:
-![Tharunraj-U's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharunraj-U&theme=dark&hide_border=false)
-![Tharunraj-U's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=dark&show_icons=true&hide_border=false&layout=compact)
-[![Tharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharunraj-U&bg_color=fff5f5&color=1a191a&line=4c9e5a&point=43fa00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <b>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</b>
+</div>
