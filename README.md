@@ -47,11 +47,12 @@
 </div>
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  
-!(https://github-readme-streak-stats.herokuapp.com/?user=Tharunraj-U&theme=tokyonight&hide_border=false)<br/>
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tharunraj-U&theme=tokyonight&hide_border=false)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+
 
 ## 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcode.panchajanya.dev/Tharunraj-U?theme=dark&font=Courier%20New)
