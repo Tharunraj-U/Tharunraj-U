@@ -13,7 +13,6 @@
 - 💡 Always excited to learn new technologies and frameworks
 - 👯 Looking to collaborate on innovative **Full Stack Projects**
 - 🎯 Goal: Contributing to projects that make a difference
-- 🤝 Open to mentorship and guidance for **FAANG placements**
 - 💬 Let's discuss **Tech, Innovation, and the Future of Development**
 
 ## 🤝 Connect With Me
