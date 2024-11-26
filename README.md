@@ -59,7 +59,7 @@
 
 ## 🌟 Fun Facts
 - 💡 Best debugging tool: A good night's sleep
-- ☕ Powered by coffee and curiosity
+- ☕ Powered by coffee and protien ⛹️💪
 - 🎮 When not coding, probably thinking about coding
 - 📚 Firm believer in continuous learning
 
