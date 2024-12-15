@@ -57,9 +57,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=""https://github.com/Tharunraj-U/Tharunraj-U/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset=""https://github.com/Tharunraj-U/Tharunraj-U/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Tharunraj-U/Tharunraj-U/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 ## 🌟 Fun Facts
