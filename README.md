@@ -5,6 +5,8 @@
 </div>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+[![Listen on Spotify](https://upload.wikimedia.org/wikipedia/commons/3/30/Spotify_Logo_2015.png)](https://open.spotify.com/track/your-track-id)
+
 
 ## 💫 About Me
 - 🚀 Passionate about crafting elegant solutions to complex problems
