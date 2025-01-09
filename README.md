@@ -70,9 +70,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=Tharunraj-U&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&layout=compact" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Tharunraj-U&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&layout=compact" />
 </div>
 
 <picture>
