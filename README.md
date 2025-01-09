@@ -70,7 +70,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunraj-U&theme=tokyonight&hide_border=false" />
+   ![GitHub Streak](https://streak-stats.demolab.com/?user=tharrunraj-u&theme=tokyonight&hide_border=false&cache_buster=1)
+
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunraj-U&theme=tokyonight&hide_border=false&layout=compact" />
 </div>
 
