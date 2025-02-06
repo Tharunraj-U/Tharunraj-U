@@ -93,7 +93,7 @@
 
 ## 📌 Personal Mantra
 
-> "Lift, Code, Eat, Sleep, Repeat." - Tharun Raj U
+> "Lift, Eat,  Code,Sleep, Repeat." - Tharun Raj U
 
 ---
 
