@@ -85,8 +85,8 @@
 ## 🌟 Fun Facts
 
 - 💡 Best debugging tool: A good night's sleep
-- ☕ Powered by coffee and protein ⛹️💪
-- 🎮 When not coding, probably thinking about coding
+- ☕ Powered by creatine monohydrate and protein 🍗💪
+- 🏋🏽 When not coding, probably lifting🔥💪🏼
 - 📚 Firm believer in continuous learning
 
 ---
