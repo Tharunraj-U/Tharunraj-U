@@ -9,7 +9,7 @@
 ## 💫 About Me
 
 - 🚀 Passionate about crafting elegant solutions to complex problems
-- 🔭 Building my digital presence at [**Portfolio**](https://tharunraj.vercel.app/)
+- 🔭 Building my digital presence at [**Portfolio**](https://tharunraj-u.vercel.app/)
 - 🌱 Currently mastering **Data Structures & Algorithms** and exploring **Spring AI**
 - 💡 Always excited to learn new technologies and frameworks
 - 👯 Looking to collaborate on innovative **Full Stack Projects**
